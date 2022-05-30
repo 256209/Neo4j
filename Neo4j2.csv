@@ -1,0 +1,17 @@
+Child,Parent,Relatinoship Type
+A1,A,Account-Account
+B1,B,Account-Account
+C1,C,Account-Account
+D1,D,Account-Account
+E1,E,Account-Account
+F1,F,Account-Account
+G1,G,Account-Account
+H1,H,Account-Account
+A12,A1,Account -HCP
+B12,B1,Account -HCP
+C12,C1,Account -HCP
+D12,D1,Account -HCP
+E12,E1,Account -HCP
+F12,F1,Account -HCP
+G12,G1,Account -HCP
+H12,H1,Account -HCP
