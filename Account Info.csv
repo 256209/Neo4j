@@ -1,0 +1,588 @@
+hco_hce_id,bus_nm,web_url_id,cot_clas_desc,cot_fclt_typ_desc,cot_spcl_desc
+18398344,SHAWNEE MISSION PRIMARY CARE INTERNAL MEDICINE AND PEDIATRICS,www.shawneemission.org,Outpatient Center,Medical Group,Internal Medicine
+18398888,"KELLER, KIMBERLY A, OFFICE",www.Hcpphysicians.org,Outpatient Center,Independent Physician Practice,NULL
+18398939,PARKWAY MEDICAL GROUP,www.parkridgehealth.org,Outpatient Center,Medical Group,Family Practice
+18399301,ASHEVILLE HEMATOLOGY AND ONCOLOGY ASSOCIATES,www.ashevillehemonc.com,Outpatient Center,Medical Group,Oncology
+18399673,WINTER PARK MEMORIAL HOSPITAL CENTER FOR SLEEP DISORDERS,www.orlandosleep.com,Outpatient Center,Medical Group,Neurology
+18399943,METROPLEX BEHAVIORAL HEALTH CENTER,www.mplex.org,Outpatient Center,Clinic,NULL
+18400585,FLORIDA HEART GROUP,www.fhg.org,Outpatient Center,Medical Group,Cardiology
+18400818,FLORIDA HOSPITAL PHYSICIAN GROUP,www.fhphysiciangroup.com,Outpatient Center,Medical Group,Family Practice
+18401197,FLORIDA HOSPITAL ORLANDO ADVANCED NUCLEAR IMAGING PET,www.floridahospital.com,Outpatient Center,Imaging Center,NULL
+18401523,SHAWNEE MISSION CARDIOVASCULAR ASSOCIATES,www.shawneemission.org,Outpatient Center,Medical Group,Cardiology
+18401907,AMITA HEALTH MEDICAL GROUP ENDOCRINOLOGY,www.amitahealth.org,Outpatient Center,Medical Group,Endocrinology
+18402213,AMITA HEALTH MEDICAL GROUP FAMILY MEDICINE LA GRANGE,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+18403109,FLORIDA HOSPITAL PHYSICIAN GROUP,www.fhdigestivecaretampa.com,Outpatient Center,Medical Group,Gastroenterology
+18403353,CARROLLWOOD CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+18403354,SOUTH TAMPA CENTRA CARE,www.centracare.org,Outpatient Center,Medical Group,Urgent Care
+18403542,AMITA HEALTH MEDICAL GROUP,www.adventisthealthpartners.com,Outpatient Center,Medical Group,Internal Medicine
+18406737,PARK RIDGE HEALTH SURGERY SPECIALIST,www.parkridgehealth.org,Outpatient Center,Medical Group,General Surgery
+18407216,FLORIDA HOSPITAL PHYSICIAN GROUP,www.primarycareofwesleychapel.com,Outpatient Center,Medical Group,Internal Medicine
+18408254,PARK RIDGE HEALTH,www.parkridgehealth.org,Corporate Parent,Owner Subsidiary,NULL
+18408618,PARK RIDGE HEALTH FORGE MOUNTAIN MEDICINE,www.parkridgehealth.org,Outpatient Center,Medical Group,Family Practice
+20988039,CENTRAL FLORIDA HEPATOLOGY AND GASTROENTEROLOGY,www.centralfloridagi.com,Outpatient Center,Medical Group,Gastroenterology
+21011287,DELAND MEDICAL ASSOCIATES,www.hcpphysicians.org,Outpatient Center,Medical Group,Family Practice
+21011779,FLORIDA HOSPITAL FLAGLER IMAGING,www.floridahospital.com,Outpatient Center,Imaging Center,NULL
+21013963,HUGULEY MEDICAL ASSOCIATES,www.huguleymedicalassociates.com,Outpatient Center,Medical Group,Family Practice
+21016225,FLORIDA HOSPITAL HEALTHCARE PARTNERS,www.hcpphysicians.org,Outpatient Center,Medical Group,Family Practice
+21073529,SHAWNEE MISSION HEALTH OVERLAND PARK,www.shawneemission.org,Outpatient Center,Medical Group,Emergency Medicine
+21207687,PARK RIDGE OBSTETRICS AND GYNECOLOGY,www.parkridgehealth.org,Outpatient Center,Medical Group,Obstetrics/Gynecology
+21210414,PARK RIDGE HEALTH SURGERY,www.parkridgehealth.org,Outpatient Center,Medical Group,General Surgery
+21213817,SHAWNEE MISSION CARDIOVASCULAR ASSOCIATES,www.Shawneemission.org,Outpatient Center,Medical Group,Cardiology
+21380111,SHAWNEE MISSION SCHOOL DISTRICT,www.smsd.org,Miscellaneous,Non-health Delivery,NULL
+21380112,SHAWNEE MISSION PRIMARY CARE DEER CREEK,www.shawneemission.org,Outpatient Center,Medical Group,Primary Care
+18384400,DIABETES AND ENDOCRINOLOGY ASSOCIATES OF LAGRANGE,www.keepingyouwell.com,Outpatient Center,Medical Group,Endocrinology
+18384497,FLORIDA HOSPITAL CENTRAL DISTRIBUTION CENTER,www.floridahospital.org,Supply,Warehouse,NULL
+18384747,PORT ORANGE CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+18385886,FLORIDA HOSPITAL KISSIMMEE INFUSION CENTER,www.floridahospital.com,Outpatient Center,Medical Group,Infusion
+18387429,FLORIDA HOSPITAL ZEHRYHILLS UROLOGY OF EAST PASCO,www.Fhzeph.org,Outpatient Center,Medical Group,Urology
+18388606,FLORIDA HOSPITAL ALTAMONTE INFUSION CENTER,www.floridahospitalaltamonte.com,Outpatient Center,Medical Group,Infusion
+18389070,LIVE OAK HEALTH PARTNERS PRIMARY CARE WIMBERLEY,www.liveoakhealthpartners.com,Outpatient Center,Medical Group,Family Practice
+18390323,FLORIDA HOSPITAL WATERMAN CANCER INSTITUTE,www.floridahospital.com,Outpatient Center,Medical Group,Oncology
+18390902,PARK RIDGE HEALTH SOUTH ASHEVILLE,www.parkridgehealth.org,Outpatient Center,Medical Group,Multispecialty Group Practice
+18393521,FHHMC SEASCAPE INTERNAL MEDICINE,www.heartlandphysiciangroup.org,Outpatient Center,Medical Group,Internal Medicine
+18395051,PARK RIDGE HEALTH MILLS RIVER,www.parkridgehealth.org,Outpatient Center,Medical Group,Family Practice
+18395552,PARK RIDGE HEALTH ENDOCRINOLOGY,www.parkridgehealth.org,Outpatient Center,Medical Group,Endocrinology
+18397547,AMITA HEALTH MEDICAL GROUP FAMILY MEDICINE CAROL STREAM,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+17851962,NON-GPO,NULL,Buying Organization,Group Purchasing Organization (GPO),NULL
+17852210,FLORIDA HOSPITAL TRANSITIONAL CARE WAUCHULA,www.floridahospital.com/heartland/transitional-care-unit,Residential,Nursing Homes,NULL
+17852220,ADVENTIST CARE CENTER COURTLAND,www.acccourtland.com/,Residential,Nursing Homes,NULL
+17853761,SOUTHWEST VOLUSIA HEALTHCARE CORPORATION,www.floridahospital.com,Outpatient Center,Medical Group,Oncology
+17855348,MEDLINE,www.medline.com,Supply,Distributor - Corporate Headquarters,NULL
+17855388,MCKESSON CORPORATION HEADQUARTERS,www.mckesson.com,Supply,Distributor - Corporate Headquarters,NULL
+17857239,HD SMITH WHOLESALE DRUG COMPANY,www.hdsmith.com,Supply,Distributor - Corporate Headquarters,NULL
+17857536,FLORIDA HOSPITAL NORTH PINELLAS TRANSITIONAL CARE UNIT,www.floridahospital.com,Residential,Nursing Homes,NULL
+18735437,PARK RIDGE HEALTH NEUROLOGY,www.parkridgehealth.org,Outpatient Center,Medical Group,Neurology
+18736935,FLORIDA HOSPITAL PHYSICIAN GROUP,www.carrollwoodinternalmedicine.com,Outpatient Center,Medical Group,Internal Medicine
+18737318,LAKE MARY PEDIATRICS,www.lmpeds.com,Outpatient Center,Medical Group,Pediatric Medicine
+18737790,LAKE MARY PEDIATRICS,www.lmpeds.com,Outpatient Center,Medical Group,Pediatric Medicine
+18738892,LEESBURG CENTRA CARE,www.centracare.org,Outpatient Center,Medical Group,Urgent Care
+18740217,FLORIDA HOSPITAL TRANSPLANT INSTITUTE,www.fhtransplant.com,Outpatient Center,Medical Group,General Surgery
+18822834,UROLOGY SPECIALISTS,www.Floridahospital.com/heartland,Outpatient Center,Medical Group,Urology
+18956774,CENTRAL TEXAS MEDICAL CENTER,www.ctmc.org,Hospital,Acute Care Hospital,General Acute
+18956775,FLORIDA HOSPITAL ZEPHYRHILLS,www.floridahospital.com/zephyrhills,Hospital,Acute Care Hospital,General Acute
+18956777,FLORIDA HOSPITAL ORLANDO,www.floridahospital.com/orlando,Hospital,Acute Care Hospital,General Acute
+18956778,FLORIDA HOSPITAL ALTAMONTE,www.floridahospital.com/altamonte,Hospital,Acute Care Hospital,General Acute
+18956779,FLORIDA HOSPITAL APOPKA,www.floridahospital.com,Hospital,Acute Care Hospital,General Acute
+18956780,FLORIDA HOSPITAL EAST ORLANDO,www.floridahospital.com/east-orlando,Hospital,Acute Care Hospital,General Acute
+18956781,FLORIDA HOSPITAL KISSIMMEE,www.floridahospital.com/kissimmee,Hospital,Acute Care Hospital,General Acute
+18956782,FLORIDA HOSPITAL HEARTLAND MEDICAL CENTER,www.floridahospital.com/FH_Heartland_Medical_Center,Hospital,Acute Care Hospital,General Acute
+18956783,FLORIDA HOSPITAL WAUCHULA,www.floridahospital.com/FH_Wauchula,Hospital,Acute Care Hospital,Critical Access
+18956784,FLORIDA HOSPITAL WATERMAN,www.floridahospital.com/waterman,Hospital,Acute Care Hospital,General Acute
+18956785,TEXAS HEALTH HUGULEY HOSPITAL,www.huguley.org,Hospital,Acute Care Hospital,General Acute
+18956787,"METROPLEX ADVENTIST HOSPITAL, INC",www.mplex.org,Hospital,Acute Care Hospital,General Acute
+18956788,"FLETCHER HOSPITAL, INC",www.parkridgehealth.org,Hospital,Acute Care Hospital,General Acute
+18956791,AMITA HEALTH ADVENTIST MEDICAL CENTER LA GRANGE,www.keepingyouwell.com/almh/,Hospital,Acute Care Hospital,General Acute
+18956792,AMITA HEALTH ADVENTIST MEDICAL CENTER HINSDALE,www.keepingyouwell.com/ahh,Hospital,Acute Care Hospital,General Acute
+18956793,ADVENTIST GLENOAKS HOSPITAL,www.keepingyouwell.com/glenoaks/aboutus.aspx,Hospital,Acute Care Hospital,General Acute
+18956794,CHIPPEWA VALLEY HOSPITAL,www.chippewavalleyhospital.com,Hospital,Acute Care Hospital,Critical Access
+18956796,FLORIDA HOSPITAL CELEBRATION HEALTH,www.floridahospital.com/celebration-health,Hospital,Acute Care Hospital,General Acute
+18957255,FLORIDA HOSPITAL DADE CITY,www.bayfrontdadecity.com,Hospital,Acute Care Hospital,General Acute
+18957288,WINTER PARK MEMORIAL HOSPITAL,www.floridahospital.com/winter-park-memorial,Hospital,Acute Care Hospital,General Acute
+18957926,FLORIDA HOSPITAL NORTH PINELLAS,www.fhnorthpinellas.com,Hospital,Acute Care Hospital,General Acute
+18957938,FLORIDA HOSPITAL CARROLLWOOD,www.floridahospital.com/carrollwood,Hospital,Acute Care Hospital,General Acute
+18957939,FLORIDA HOSPITAL TAMPA,www.floridahospital.com/tampa,Hospital,Acute Care Hospital,General Acute
+18957950,MURRAY MEDICAL CENTER,www.murraymedical.org,Hospital,Acute Care Hospital,General Acute
+18958991,FLORIDA HOSPITAL MEMORIAL MEDICAL CENTER,www.floridahospital.com/memorial-medical-center,Hospital,Acute Care Hospital,General Acute
+18958992,FLORIDA HOSPITAL DELAND,www.floridahospital.com/deland,Hospital,Acute Care Hospital,General Acute
+19673326,OVERLAND PARK CENTRA CARE,www.shawneemission.org,Outpatient Center,Medical Group,Urgent Care
+20413022,ADVANCED PULMONARY AND CRITICAL CARE,www.advancedpulmonarycare.com,Outpatient Center,Medical Group,Pulmonary Disease
+20558782,"ADVENTIST HEALTH SYSTEM SUNBELT, INC",www.floridahospital.com,Pharmacy,Compounding,NULL
+20657829,PALM COAST CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+20657830,DELAND CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+20657837,WESLEY CHAPEL CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+20657842,SAINT CLOUD CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+20742462,SHAWNEE MISSION PRIMARY CARE INTERNAL MEDICINE AND PEDIATRICS,www.shawneemission.org,Outpatient Center,Medical Group,Primary Care
+20760640,GORDON PRIMARY CARE,www.gordonhospital.com,Outpatient Center,Medical Group,Family Practice
+20805248,NORTHWEST FLORIDA HEART GROUP DAVIS HWY,www.nwfheartgroup.com,Outpatient Center,Medical Group,Cardiology
+20897214,TEMPLE TERRACE PRIMARY CARE,www.templeterraceprimarycare.com,Outpatient Center,Medical Group,Primary Care
+20906948,FLORIDA HOSPITAL MEMORIAL MEDICAL PEDIATRICS,www.floridahospital.com,Outpatient Center,Medical Group,Pediatric Medicine
+20907203,FLORIDA HOSPITAL DIABETES CENTER,www.floridahospital.com,Outpatient Center,Medical Group,Endocrinology
+20919519,CHILDRENS KIDNEY CENTER OF FLORIDA,fhmedicalgroup.com,Outpatient Center,Medical Group,Pediatric Medicine
+20961886,FLORIDA HOSPITAL PHYSICIANS GROUP,www.floridahospital.org,Outpatient Center,Medical Group,Pulmonary Disease
+20976056,FLORIDA HOSPITAL TAMPA WOUND HEALING INSTITUTE,www.floridahospital.com,Outpatient Center,Medical Group,Emergency Medicine
+21471096,NORTHWEST GEORGIA SURGICAL ASSOCIATES,NULL,Outpatient Center,Medical Group,General Surgery
+21480443,FLORIDA HOSPITAL PHYSICIAN GROUP,www.fhprimarycarebrandon.com,Outpatient Center,Medical Group,Family Practice
+21481577,HUGULEY MEDICAL ASSOCIATES,huguleymedicalassociates.com,Outpatient Center,Medical Group,General Surgery
+21556793,FLORIDA HOSPITAL SHERMAN OUTPATIENT SURGERY CENTER,www.floridahospital.com/orlando/general-surgery/sherman-surgery,Outpatient Center,Outpatient Surgi Center,NULL
+21556801,FLORIDA HOSPITAL IMAGING SERVICES MEDICAL PLAZA ORLANDO,www.floridahospital.com/orlando/imaging-radiology,Outpatient Center,Imaging Center,NULL
+21556819,FLORIDA HOSPITAL CELLULAR THERAPY LABORATORY,www.floridahospital.com,Laboratory,Clinical Laboratory,NULL
+21556826,FLORIDA HOSPITAL GAMMA KNIFE CENTER,www.floridahospital.com/orlando,Outpatient Center,Imaging Center,NULL
+21556834,FLORIDA HOSPITAL PRETESTING EVALUATION CENTER,www.floridahospital.com,Laboratory,Clinical Laboratory,NULL
+21558086,FLORIDA HOSPITAL FOR WOMEN,www.floridahospital.com/for-women,Hospital,Acute Care Hospital,General Acute
+22044026,LAKE WELLNESS FOR WOMEN OBGYN,www.Fhmedicalgroup.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+22044037,FLORIDA ENT SURGICAL SPECIALISTS,www.Fhmedicalgroup.com,Outpatient Center,Medical Group,Otolaryngology
+22044048,FLORIDA CENTER FOR PEDIATRIC UROLOGY,www.Fhmedicalgroup.com,Outpatient Center,Medical Group,Urology
+22054865,SHAWNEE MISSION PHYSICIANS GROUP,www.shawneemission.org,Outpatient Center,Medical Group,Family Practice
+15235227,EXPEDIEN RX PHARMACY,www.expedienrx.com,Pharmacy,Retail Pharmacy,NULL
+17773293,ADVENTIST HEALTH SYSTEM,www.adventisthealthsystem.com,Corporate Parent,Integrated Delivery Network (IDN),NULL
+17773619,"PREMIER, INC",www.premierinc.com,Buying Organization,Group Purchasing Organization (GPO),NULL
+17773686,ROLLINS BROOK COMMUNITY HOSPITAL,www.mplex.org/about-us/rollins-brook,Hospital,Acute Care Hospital,Critical Access
+17773687,FLORIDA HOSPITAL FISH MEMORIAL,www.floridahospital.com/fish-memorial,Hospital,Acute Care Hospital,General Acute
+17773840,FLORIDA HOSPITAL LAKE PLACID,www.floridahospital.com/heartland,Hospital,Acute Care Hospital,General Acute
+17774342,FLORIDA LIVING NURSING CENTER,www.floridalivingnursing.com/,Residential,Nursing Homes,NULL
+17774625,FLORIDA HOSPITAL FLAGLER,www.floridahospitalflagler.com,Hospital,Acute Care Hospital,General Acute
+17774730,ZEPHYRHILLS HEALTH AND REHABILITATION CENTER,www.zephyrhillshealth.com/,Residential,Nursing Homes,NULL
+17775115,HAYS NURSING AND REHABILITATION CENTER,www.haysnursing.com,Residential,Nursing Homes,NULL
+17775563,CREEKWOOD PLACE NURSING AND REHABILITATION CENTER,www.creekwoodplacenursing.com,Residential,Nursing Homes,NULL
+17775963,HUGULEY NURSING AND REHABILITATION CENTER,www.huguleynursing.com,Residential,Nursing Homes,NULL
+17776355,BRADFORD HEIGHTS HEALTH AND REHABILITATION CENTER,www.bradfordheightshealth.com,Residential,Nursing Homes,NULL
+17776356,EAST ORLANDO HEALTH AND REHABILITATION CENTER,www.eastorlandohealth.com,Residential,Nursing Homes,NULL
+17778600,WESTMONT IMAGING CENTER,www.keepingyouwell.com,Outpatient Center,Imaging Center,NULL
+17780090,AMITA HINSDALE IMAGING CENTER,www.keepingyouwell.com,Outpatient Center,Imaging Center,NULL
+17781187,FLORIDA HEART GROUP,www.fhg.org,Outpatient Center,Medical Group,Cardiology
+18286128,CLAY COUNTY PRIMARY CARE CENTER,www.manchestermemorial.org,Outpatient Center,Medical Group,Primary Care
+18286131,FLORIDA HOSPITAL MEDICAL GROUP RADIATION ONCOLOGY,www.Fhmedicalgroup.com,Outpatient Center,Medical Group,Oncology
+18286212,FLORIDA HOSPITAL SPORTS MEDICINE AND REHABILITATION,www.floridahospital.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18286722,PARK RIDGE PSYCHIATRY,www.parkridgehealth.org,Outpatient Center,Medical Group,Behavioral Health
+18286809,FLORIDA HOSPITAL SPORTS MEDICINE AND REHABILITATION,www.floridahospital.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18287850,GORDON ADULT AND PEDIATRIC MEDICAL ASSOCIATES,www.Gordonhospital.com,Outpatient Center,Medical Group,Internal Medicine
+18290669,AMITA HEALTH MEDICAL GROUP,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+18291127,ADVENTIST HEALTH CLINIC,www.Adventisthealth.org,Outpatient Center,Medical Group,Family Practice
+18293710,OMNICARE OF CENTRAL FLORIDA,www.omnicare.com,Pharmacy,Closed-door,Long-term Care
+18294061,AMITA HEALTH MEDICAL GROUP UROLOGY BOLINGBROOK,www.amitahealth.org,Outpatient Center,Medical Group,Urology
+17823986,LAKE MARY PEDIATRICS,www.lmpeds.com,Outpatient Center,Medical Group,Pediatric Medicine
+18355538,SOUTHWEST VOLUSIA MEDICAL,www.hcpphysicians.org,Outpatient Center,Medical Group,Internal Medicine
+18356188,HUGULEY MEDICAL ASSOCIATES,huguleymedicalassociates.com,Outpatient Center,Medical Group,Rheumatology
+18357709,FLORIDA HOSPITAL PHYSICIAN GROUP,www.floridahospital.com,Outpatient Center,Medical Group,Multispecialty Group Practice
+18362002,CENTER FOR UROLOGIC CANCER,www.globalroboticsinstitute.com,Outpatient Center,Medical Group,Oncology
+18362079,SHAWNEE MISSION CANCER CENTER GYNECOLOGICAL ONCOLOGY,www.shawneemission.org,Outpatient Center,Medical Group,Oncology
+18362752,PEDIATRIC AND ADOLESCENT MEDICINE,www.verobeachpediatrician.com,Outpatient Center,Medical Group,Pediatric Medicine
+18364328,INTERNAL MEDICAL OF EAST PASCO,www.floridahospital.com,Outpatient Center,Medical Group,Internal Medicine
+18368614,WOMENS HEALTH OF PASCO,NULL,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18368801,AMITA HEALTH MEDICAL GROUP DOC FAMILY PRACTICE,www.adventisthealthpartners.com/,Outpatient Center,Medical Group,Family Practice
+18369453,NORTH PINELLAS MEDICAL CENTER,www.northpinellaswomenscare.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+19522794,FLORIDA HOSPITAL PHYSICIAN GROUP,www.floridahospital.com,Outpatient Center,Medical Group,General Surgery
+19523026,AMITA HEALTH MEDICAL GROUP GENERAL SURGERY,www.keepingyouwell.com,Outpatient Center,Medical Group,General Surgery
+19525602,THE CENTER FOR SPECIALIZED SURGERY,www.centerforspecializedsurgery.com,Outpatient Center,Medical Group,General Surgery
+19526680,AMITA HEALTH MEDICAL GROUP OBSTETRICS AND GYNECOLOGY BOLINGBROOK,www.amitahealth.org,Outpatient Center,Medical Group,Obstetrics/Gynecology
+19529045,PARKWAY MEDICAL GROUP BLACK MOUNTAIN,www.parkridgehealth.org,Outpatient Center,Medical Group,Family Practice
+19529231,FLORIDA HOSPITAL WATERMAN COMMUNITY PRIMARY HEALTH CLINIC,www.floridahospital.com,Outpatient Center,Medical Group,Primary Care
+19529353,AMITA HEALTH MEDICAL GROUP FAMILY MEDICINE PLAINFIELD,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+19529441,METROPLEX CLINIC PHYSICIANS,www.mplex.org,Outpatient Center,Medical Group,Multispecialty Group Practice
+19529835,SURGICAL INSTITUTE,NULL,Outpatient Center,Medical Group,General Surgery
+19529845,WESLEY CHAPEL MEDICAL CLINIC,www.Fhwesleychapel.org,Outpatient Center,Medical Group,Internal Medicine
+19529854,WILLOWBROOK WOMENS CENTER,www.manchestermemorial.org,Outpatient Center,Medical Group,Obstetrics/Gynecology
+19530435,SOUTHWEST VOLUSIA MEDICAL ASSOCIATES,www.hcpphysicians.org,Outpatient Center,Medical Group,Behavioral Health
+19530590,AMITA HEALTH MEDICAL GROUP BURR RIDGE FAMILY MEDICINE,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+19530974,CAROLINAS CENTER FOR ADVANCED MANAGEMENT OF PAIN,www.carolinapain.com,Outpatient Center,Medical Group,Pain Management
+19531001,AMITA HEALTH MEDICAL GROUP,www.amitahealth.org,Outpatient Center,Medical Group,Obstetrics/Gynecology
+19531227,SHAWNEE MISSION PRIMARY CARE,www.shawneemission.org,Outpatient Center,Medical Group,Primary Care
+19531386,GASTROINTESTINAL SPECIALTY CARE,NULL,Outpatient Center,Medical Group,Gastroenterology
+19531552,"MATHURA, JUDITH D, OFFICE",NULL,Outpatient Center,Independent Physician Practice,NULL
+19531632,GLENDALE MEDICAL CARE,NULL,Outpatient Center,Medical Group,Internal Medicine
+19531638,EAST LAKE PRIMARY CARE,www.primarycareeastlake.com,Outpatient Center,Medical Group,Family Practice
+19531825,GLEN OAKS WOMENS HEALTHCARE,NULL,Outpatient Center,Medical Group,Obstetrics/Gynecology
+19531990,TRINITY FAMILY MEDICINE,www.familymedicinetrinity.com,Outpatient Center,Medical Group,Family Practice
+19532231,HEALTHCARE PARTNERS GENERAL SURGERY,www.floridahospital.com,Outpatient Center,Medical Group,General Surgery
+19532270,FLORIDA WOMENS CENTER LAKE MARY,www.floridawomenscenteraltamonte.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+19532672,WOMENS CARE OBGYN,NULL,Outpatient Center,Medical Group,Obstetrics/Gynecology
+19532750,AMITA HEALTH MEDICAL GROUP GENERAL SURGERY LA GRANGE,www.amitahealth.org,Outpatient Center,Medical Group,General Surgery
+19533003,FLORIDA WOMENS HEALTH CENTER,www.floridawomenshealthcenter.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+19533057,DURAND CLINIC SOUTH,www.chippewavalleyhospital.com,Outpatient Center,Medical Group,Primary Care
+19533123,LIVE OAK HEALTH PARTNERS,liveoakhealthpartners.com,Outpatient Center,Medical Group,Family Practice
+19533126,FLORIDA HOSPITAL PHYSICIAN GROUP CARROLLWOOD PRIMARY CARE,www.carrollwoodprimarycare.com,Outpatient Center,Medical Group,Internal Medicine
+19533375,FLORIDA HOSPITAL NEW SMYRNA COMMUNITY HEALTH CENTER,www.floridahospital.com,Outpatient Center,Medical Group,Family Practice
+19582070,FLORIDA PHYSICIANS GROUP CITRUS PARK,www.patients-first.com,Outpatient Center,Medical Group,Family Practice
+18340702,THE CENTER FOR SPECIALIZED SURGERY - EAST,www.centerforspecializedsurgery.com,Outpatient Center,Medical Group,General Surgery
+18341211,THE SPINE HEALTH INSTITUTE,www.thespinehealthinstitute.com,Outpatient Center,Medical Group,Orthopedics
+18343555,FLORIDA HOSPITAL FISH MEMORIAL FAMILY PRACTICE,www.floridahospital.com,Outpatient Center,Medical Group,Family Practice
+18348946,FLORIDA HOSPITAL SEASCAPE IMAGING,www.floridahospital.com,Outpatient Center,Imaging Center,NULL
+18350166,AMITA HEALTH MEDICAL GROUP ORTHOPEDICS HINSDALE,www.amitahealth.org,Outpatient Center,Medical Group,Orthopedics
+18351434,SOUTHWEST VOLUSIA MEDICAL ASSOCIATES,www.Floridahospital.com/fish-memorial,Outpatient Center,Medical Group,Pediatric Medicine
+17799470,GORDON HEALTH DEPOT,www.gordonhospital.com,Outpatient Center,Medical Group,Family Practice
+17799791,SHAWNEE MISSION PRIMARY CARE SHAWNEE MISSION MEDICAL BUILDING,www.shawneemission.org,Outpatient Center,Medical Group,Family Practice
+17799853,"FAMILY PRACTICE ASSOCIATES, SC",www.keepingyouwell.com,Outpatient Center,Medical Group,Family Practice
+17801299,FLORIDA HOSPITAL CANCER INSTITUTE,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Oncology
+17801825,TRINITY NURSING AND REHABILITATION CENTER,www.trinitynursingandrehab.com,Residential,Nursing Homes,NULL
+17803009,LAKE MARY FAMILY PRACTICE,www.lakemaryfamilypractice.com,Outpatient Center,Medical Group,Family Practice
+17806720,PALM HARBOR MEDICAL CENTER,www.palmharbormedicalcenter.com,Outpatient Center,Medical Group,Primary Care
+17809273,CORPORATECARE NORTH,www.shawneemission.org,Outpatient Center,Medical Group,Occupational Health
+17809582,SHAWNEE MISSION CORPORATE CARE,www.shawneemission.org,Outpatient Center,Medical Group,Occupational Health
+18245246,FLORIDA HOSPITAL SPORTS MEDICINE AND REHABILITATION,www.fhsportsmed.org,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18245249,FLORIDA RADIOLOGY IMAGING,www.floridahospitalradiology.com,Corporate Parent,Owner Subsidiary,NULL
+18245257,ADVENTIST MIDWEST HEALTH,www.keepingyouwell.com,Corporate Parent,Owner Subsidiary,NULL
+18245258,NEUROLOGY SPECIALISTS OF CENTRAL FLORIDA,www.neurologyspecialistsofflorida.com,Outpatient Center,Medical Group,Neurology
+18245267,JEWETT ORTHOPEDICS,www.orthopaedicsofflorida.com,Outpatient Center,Medical Group,Orthopedics
+18245273,PREMIER HEMATOLOGY AND ONCOLOGY,www.premierhematologyandoncology.com,Outpatient Center,Medical Group,Oncology
+18245276,ADVENTIST PAULSON REHAB WILLOWBROOK,www.keepingyouwell.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18245281,OPTIONS OUTPATIENT BEHAVIORAL HEALTH,www.keepingyouwell.com,Outpatient Center,Medical Group,Behavioral Health
+18245282,ADVENTIST LA GRANGE FAMILY MEDICINE CENTER,www.keepingyouwell.com,Outpatient Center,Medical Group,Family Practice
+18247588,FLORIDA HOSPITAL BRAIN AND SPINE SURGERY ASSOCIATES,NULL,Outpatient Center,Medical Group,Neurology
+18247706,SHAWNEE MISSION PRIMARY CARE PRAIRIE STAR,www.shawneemission.org,Outpatient Center,Medical Group,Primary Care
+18247714,SHAWNEE MISSION CENTER FOR PAIN MEDICINE,www.shawneemission.org,Outpatient Center,Medical Group,Pain Management
+18248361,THE THERAPY CENTER LAKE PLACID,www.floridahospital.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18249269,COLONIAL TOWN CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+18250550,LIVE OAK HEALTH PARTNERS SPECIALTY CARE,www.liveoakhealthpartners.com,Outpatient Center,Medical Group,Multispecialty Group Practice
+18251007,FLORIDA HEART CONSULTANTS APOPKA,www.floridaheartconsultants.com,Outpatient Center,Medical Group,Cardiology
+18251008,ADVANCED AND MINIMALLY INVASIVE GYNECOLOGY,www.orlandoadvancedgyn.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18251012,MISSION CARDIOVASCULAR AND THORACIC SURGEONS,www.fhmedicalgroup.com,Outpatient Center,Medical Group,General Surgery
+18251017,ADVENTIST GLENOAKS PHYSICAL REHABILITATION,www.keepingyouwell.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18251432,CENTRAL FLORIDA HEPATOLOGY AND GASTROENTEROLOGY,www.fpmg.com,Outpatient Center,Medical Group,Gastroenterology
+18251451,PLAINFIELD IMAGING AND OUTPATIENT CENTER,www.keepingyouwell.com,Outpatient Center,Imaging Center,NULL
+18252560,FLORIDA HOSPITAL SPORTS MEDICINE AND REHABILITATION,www.floridahospital.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18252565,METROPLEX HEALTH SYSTEM,www.mplex.org,Corporate Parent,Owner Subsidiary,NULL
+18252566,CENTRAL TX WOUND HEALING ASSOCIATES,www.mplex.org,Outpatient Center,Medical Group,Wound Care
+18252840,HEARTLAND WOMENS HEALTH,NULL,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18253073,FLORIDA HOSPITAL CENTER FOR WOUND HEALING AND HYPERBARIC MEDICINE,www.floridahospital.com,Outpatient Center,Medical Group,Wound Care
+18253085,METROPLEX ADVANCED IMAGING,www.mplex.org,Outpatient Center,Imaging Center,NULL
+18253086,METROPLEX REHABILITATION CENTER,www.mplex.org,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18253102,NEUROSURGEONS FOR KIDS,www.neurosurgeons4kids.com,Outpatient Center,Medical Group,General Surgery
+18253109,PREMIER HEMATOLOGY AND ONCOLOGY,www.fpmg.com,Outpatient Center,Medical Group,Oncology
+18253113,ADVENTIST PAULSON PEDIATRIC REHAB HINSDALE,www.keepingyouwell.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18253301,PARK RIDGE HEALTH PEDIATRICS,www.parkridgehealth.org,Outpatient Center,Medical Group,Pediatric Medicine
+18253386,ORTHOPEDIC AND SPINE INSTITUTE,NULL,Outpatient Center,Medical Group,Orthopedics
+18255978,"NORTH GEORGIA CANCER CARE, PC",www.gordonhospital.com,Outpatient Center,Medical Group,Oncology
+18369560,SOUTH ORANGE CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+18372364,BRANDON CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+18372647,AMITA HEALTH MEDICAL GROUP INTERNAL MEDICINE WESTERN SPRINGS,www.amitahealth.org,Outpatient Center,Medical Group,Internal Medicine
+18373801,CAPPIELLO MEDICAL CLINIC,NULL,Outpatient Center,Medical Group,Internal Medicine
+18375805,STETON UNIVERSITY STUDENT HEALTH SERVICES,www.Stetson.edu,Outpatient Center,Clinic,Student Health Center
+18381542,FLORIDA HOSPITAL DELAND OBGYN,www.floridahospital.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18382425,FLORIDA HOSPITAL CANCER INSTITUTE AT WINTER PARK MEMORIAL HOSPITAL,www.floridahospital.com,Outpatient Center,Medical Group,Oncology
+19241260,SHAWNEE MISSION HEALTH PRAIRIE STAR,www.shawneemission.org,Outpatient Center,Medical Group,Multispecialty Group Practice
+19242521,FLORIDA HOSPITAL ORLANDO INFUSION CENTER,www.floridahospitalcancer.com,Outpatient Center,Medical Group,Infusion
+19316713,GORDON HOSPITAL INFUSION CENTER,www.gordonhospital.com,Outpatient Center,Medical Group,Infusion
+19370253,FLORIDA HOSPITAL PHYSICIAN GROUP,www.fhphysiciangroup.com,Outpatient Center,Medical Group,Primary Care
+19454663,ADVENTIST MIDWEST HEALTH,www.amitahealth.org,Pharmacy,Retail Pharmacy,NULL
+19517019,BAYFRONT HEALTH MEDICAL GROUP GENERAL SURGERY AND BARIATRICS,www.bayfrontdadecity.com,Outpatient Center,Medical Group,General Surgery
+19518132,HINSDALE OBSTETRICS AND GYNECOLOGY,www.amitahealth.org,Outpatient Center,Medical Group,Obstetrics/Gynecology
+19518636,AMITA HEALTH MEDICAL GROUP BOLING PRIMARY CARE,www.amitahealth.org,Outpatient Center,Medical Group,Primary Care
+19521179,AMITA HEALTH MEDICAL GROUP INTERNAL MEDICINE LA GRANGE,www.amitahealth.org,Outpatient Center,Medical Group,Internal Medicine
+17783577,LAKE PRIMARY CARE ASSOCIATES,www.lakeprimarycareassoc.com,Outpatient Center,Medical Group,Family Practice
+17784292,FLORIDA HOSPITAL DISTRIBUTION CENTER,www.floridahospital.com/,Supply,Distributor,NULL
+17784360,SHAWNEE MISSION PRIMARY CARE PRAIRIE VIEW MEDICAL BUILDING,www.shawneemission.org,Outpatient Center,Medical Group,Primary Care
+17784609,"CARDINAL HEALTH, INC",www.cardinalhealth.com,Supply,Distributor - Corporate Headquarters,NULL
+17785768,COMMUNITY CARE FAMILY PRACTICE,www.communitycarefamilypractice.com,Outpatient Center,Medical Group,Family Practice
+17786083,NEWMAN FAMILY MEDICINE,www.newmanfamilymedicine.com,Outpatient Center,Medical Group,Family Practice
+17786374,FLORIDA UROLOGY ASSOCIATES,www.urologyofflorida.com,Outpatient Center,Medical Group,Urology
+17786600,THE CENTRE FOR FAMILY MEDICINE AT FLORIDA HOSPITAL,www.centreforfamilymedicine.com,Outpatient Center,Medical Group,Family Practice
+17786988,ADVANCED ADULT AND PEDIATRIC MEDICINE,www.floridahospital.com,Outpatient Center,Medical Group,Primary Care
+17787687,FLORIDA HOSPITAL GYNECOLOGIC ONCOLOGY,www.floridahospital.com,Outpatient Center,Medical Group,Oncology
+17788039,CENTER FOR FAMILY CARE,www.centerforfamilycare.com,Outpatient Center,Medical Group,Primary Care
+17788806,SHAWNEE MISSION NEUROLOGY CONSULTANTS,www.shawneemission.org,Outpatient Center,Medical Group,Neurology
+17790406,FLORIDA HOSPITAL CENTRAL FLORIDA,www.floridahospital.com,Corporate Parent,Owner Subsidiary,NULL
+18523679,FLORIDA HOSPITAL MEMORIAL MEDICAL CENTER AT THE PAVILION,www.fhmmcpavilion.org,Outpatient Center,Medical Group,Family Practice
+18523689,PARK RIDGE PULMONARY AND SLEEP MEDICINE,www.parkridgehealth.org,Outpatient Center,Medical Group,Pulmonary Disease
+18723250,TAMPA BAY CARDIOVASCULAR CENTER,www.Fhmedicalgroup.com,Outpatient Center,Medical Group,Cardiology
+18723434,PARK RIDGE HEALTH RHEUMATOLOGY,www.parkridgehealth.org,Outpatient Center,Medical Group,Rheumatology
+18724163,FLORIDA UROLOGY ASSOCIATES,www.urologyofflorida.com,Outpatient Center,Medical Group,Urology
+18724164,FLORIDA UROLOGY ASSOCIATES,www.urologyofflorida.com,Outpatient Center,Medical Group,Urology
+18724752,NEPHROLOGY ASSOCIATES OF NORTHERN ILLINOIS AND INDIANA,www.nephdocs.com,Outpatient Center,Medical Group,Nephrology
+18724860,DAYTONA CENTRA CARE,www.centracare.org,Outpatient Center,Medical Group,Urgent Care
+18725689,FLORIDA CENTER FOR PEDIATRIC ORTHOPAEDICS,www.floridacenterforpediatricorthopaedics.com,Outpatient Center,Medical Group,Orthopedics
+18732460,BRANDON FAMILY MEDICAL CARE SOUTH,www.brandoncare.com,Outpatient Center,Medical Group,Family Practice
+18257131,FLORIDA HOSPITAL MEMORIAL MEDICAL CENTER CANCER INSTITUTE,www.floridahospital.com,Outpatient Center,Medical Group,Oncology
+18257436,OVIEDO FAMILY MEDICINE ASSOCIATES,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Family Practice
+18261554,FLORIDA UROLOGY ASSOCIATES,www.urologyofflorida.com,Outpatient Center,Medical Group,Urology
+18261721,MOUNT DORA CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+18265070,PARK RIDGE MEDICAL ASSOCIATES,www.parkridgehealth.org,Outpatient Center,Medical Group,Family Practice
+18266934,"SHAWNEE MISSION PULMONARY CONSULTANTS, PA",www.shawneemission.org,Outpatient Center,Medical Group,Pulmonary Disease
+18267513,DURAND CLINIC NORTH,www.chippewavalleyhospital.com,Outpatient Center,Medical Group,Family Practice
+18269259,"CEBALLOS, JECEBU J, OFFICE",NULL,Outpatient Center,Independent Physician Practice,NULL
+18269453,FAMILY PRACTICE MEDICAL CENTER,www.floridahospital.com,Outpatient Center,Medical Group,Family Practice
+18147441,BLOOD AND MARROW TRANSPLANT CENTER,www.bloodandmarrowtransplantcenter.com,Outpatient Center,Medical Group,Hematology
+18148690,FRI DIAGNOSTIC IMAGING PRINCETON,www.floridahospitalradiology.com,Outpatient Center,Imaging Center,NULL
+18150058,FLORIDA HOSPITAL HEALTHCARE PARTNERS,www.hcpphysicians.org,Outpatient Center,Medical Group,Internal Medicine
+18150781,PARK RIDGE HEALTH CARDIOLOGY,www.parkridgehealth.org,Outpatient Center,Medical Group,Cardiology
+18151211,KANSAS CITY UNIVERSITY COLLEGE OF OSTEOPATHIC MEDICINE,www.kcumb.edu,Academic,Osteopathic Medical School,NULL
+18154053,WESLEY CHAPEL FAMILY PRACTICE,www.fhphysiciangroup.com,Outpatient Center,Medical Group,Family Practice
+18154711,CENTRAL TEXAS MEDICAL CENTER HOSPICE,www.adventisthealthsystem.org,Residential,Home Health,Hospice
+18155105,SHAWNEE MISSION HEALTH,www.shawneemission.org,Corporate Parent,Owner Subsidiary,NULL
+18155132,FLORIDA HOSPITAL PEPIN HEART INSTITUTE,www.floridahospital.com/tampa/cardiovascular,Hospital,Acute Care Hospital,Cardiology
+18155982,LAKE ERIE COLLEGE OF OSTEOPATHIC MEDICINE BRADENTON CAMPUS,www.lecom.edu,Academic,Osteopathic Medical School,NULL
+18156021,FLORIDA HOSPITAL HOSPICECARE,www.floridahospital.com,Residential,Home Health,Hospice
+18156023,PREFERRED HOME HEALTH,www.preferredhh.com,Residential,Home Health,NULL
+18156851,FLORIDA HOSPITAL IMAGING,www.floridahospitalimaging.org,Outpatient Center,Imaging Center,NULL
+18157585,MINGO WAYNE HOME HEALTH,www.mingowaynehh.com,Residential,Home Health,NULL
+18158861,AMITA HEALTH MEDICAL GROUP INTERNAL MEDICINE CHICAGO,www.amitahealth.org,Outpatient Center,Medical Group,Primary Care
+18159292,NOVA SOUTHEASTERN UNIVERSITY COLLEGE OF OSTEOPATHIC MEDICINE,medicine.nova.edu,Academic,Osteopathic Medical School,NULL
+18159339,WEST FLORIDA HEALTH HOME CARE,www.floridahospital.com,Residential,Home Health,NULL
+18159340,FLORIDA HOSPITAL WATERMAN HOMECARE SERVICES,www.floridahospital.com/waterman,Residential,Home Health,NULL
+18159402,ADVENTIST BOLINGBROOK HOSPITAL OUTPATIENT REHABILITATION CARE,www.keepingyouwell.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18329625,WINTER GARDEN PRIMARY CARE,www.floridahospital.com/winter-garden/our-location,Outpatient Center,Medical Group,Family Practice
+18329647,CENTER FOR SURGICAL CARE,www.lisamintonmd.com,Outpatient Center,Medical Group,General Surgery
+18331097,FLORIDA WOMENS CENTER APOPKA,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18331099,FLORIDA WOMENS CENTER LAKE MARY,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18332686,FLORIDA DIABETES AND ENDOCRINE CENTER KISSIMMEE,www.fldiabetesandendocrine.com,Outpatient Center,Medical Group,Endocrinology
+18335994,FAMILY MEDICINE OF HUNTERS CREEK,www.hunterscreekfamilydoc.com,Outpatient Center,Medical Group,Family Practice
+18336020,FLORIDA BREAST HEALTH SPECIALISTS,www.Fhmedicalgroup.com,Outpatient Center,Medical Group,General Surgery
+18336766,BRANDON FAMILY MEDICAL CARE,www.brandoncare.com,Outpatient Center,Medical Group,Family Practice
+18337739,CENTER FOR DIGESTIVE AND LIVER DISEASE,www.digestiveandliverdisease.com,Outpatient Center,Medical Group,Gastroenterology
+18337759,CENTER FOR ADVANCED SURGERY,www.centerforadvsurgery.com,Outpatient Center,Medical Group,General Surgery
+18337765,MCCARUS SURGICAL SPECIALISTS FOR WOMEN CELEBRATION,www.mccarusgyn.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18338424,MCCARUS SURGICAL SPECIALISTS FOR WOMEN,www.mccarusgyn.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18338427,CENTER FOR FAMILY AND WOMENS HEALTH,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Primary Care
+18339421,CENTER FOR PEDIATRIC AND ADOLESCENT MEDICINE,www.fhpediatrics.com,Outpatient Center,Medical Group,Pediatric Medicine
+18339756,AMITA HEALTH MEDICAL GROUP INTERNAL MEDICINE ROMEOVILLE,www.amitahealth.org,Outpatient Center,Medical Group,Internal Medicine
+18203754,AMITA HEALTH MEDICAL GROUP FAMILY MEDICINE CLARENDON HILLS,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+18205867,"ROSALES, JOSE, OFFICE",www.hcpphysicians.org,Outpatient Center,Independent Physician Practice,NULL
+18210516,FLORIDA HOSPITAL OUTPATIENT SURGICAL CENTER,www.floridahospital.com,Outpatient Center,Outpatient Surgi Center,NULL
+18212870,FLAGLER ORTHOPEDICS AND SPORTS MEDICINE,www.flaglerorthopedics.com,Outpatient Center,Medical Group,Orthopedics
+18214196,AMITA HEALTH MEDICAL GROUP,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+18214202,UNIVERSITY OF CENTRAL FLORIDA COLLEGE OF MEDICINE,www.med.ucf.edu/,Academic,Medical School,NULL
+18215533,WHOLE HEALTH FAMILY MEDICINE,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Family Practice
+18217755,FHHMC COMPLETE FAMILY CARE,www.heartlandphysiciangroup.org,Outpatient Center,Medical Group,Family Practice
+18218885,SHAWNEE MISSION PRIMARY CARE DE SOTO,www.shawneemission.org,Outpatient Center,Medical Group,Family Practice
+18219290,ADVANCED MINIMALLY INVASIVE AND BARIATRIC SURGERY CONSULTANTS,www.celebrationcentersurgery.com,Outpatient Center,Medical Group,General Surgery
+18219293,"CANCER INSTITUTE OF FLORIDA, PA",www.cancerinstituteofflorida.com,Outpatient Center,Medical Group,Oncology
+18221098,FLORIDA HOSPITAL DIGESTIVE HEALTH CENTER,www.floridahospital.com,Outpatient Center,Medical Group,Gastroenterology
+18221601,DAVITA MEDICAL GROUP,www.jsahealthcare.com,Outpatient Center,Medical Group,Family Practice
+18224337,FLORIDA DIABETES AND ENDOCRINE CENTER,www.fpmg.com,Outpatient Center,Medical Group,Endocrinology
+18225163,BREAST CARE CENTER OF FLORIDA,www.floridabreastcare.com,Outpatient Center,Medical Group,General Surgery
+18225165,CENTRAL FLORIDA HEPATOLOGY AND GASTROENTEROLOGY,www.centralfloridagi.com,Outpatient Center,Medical Group,Gastroenterology
+18225307,FLORIDA HOSPITAL HEARTLAND FAMILY MEDICAL SPECIALIST,www.Fhhd.org,Outpatient Center,Medical Group,Family Practice
+18225422,FLORIDA UROLOGY ASSOCIATES,www.urologyofflorida.com,Outpatient Center,Medical Group,Urology
+18225475,WALT DISNEY PAVILION AT FLORIDA HOSPITAL FOR CHILDREN,www.floridahospital.com/children,Hospital,Acute Care Hospital,Childrens
+18225808,ADVANCED PEDIATRIC SURGICAL SPECIALISTS,www.fpmg.com,Outpatient Center,Medical Group,General Surgery
+18227468,THE CENTER FOR COLON AND RECTAL SURGERY,www.floridahospital.com,Outpatient Center,Medical Group,General Surgery
+18227469,CENTRAL FLORIDA FAMILY MEDICINE,www.cflfamilymedicine.com,Outpatient Center,Medical Group,Family Practice
+18227503,PARK RIDGE HEALTH HEMATOLOGY AND ONCOLOGY,www.parkridgehealth.org,Outpatient Center,Medical Group,Oncology
+18188356,NORTHWEST GEORGIA WOMENS CARE,www.gordonhospital.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18189212,FLORIDA HOSPITAL NEW SMYRNA CENTER FOR ONCOLOGY,www.floridahospital.com,Outpatient Center,Medical Group,Oncology
+18189877,FLORIDA HEART GROUP,www.fhg.org,Outpatient Center,Medical Group,Cardiology
+18190502,FLORIDA HEART GROUP,www.fhg.org,Corporate Parent,Owner Subsidiary,NULL
+18192251,CENTRAL FLORIDA HEPATOLOGY AND GASTROENTEROLOGY,www.centralfloridagi.com,Outpatient Center,Medical Group,Gastroenterology
+18192252,NEUROONCOLOGY CENTER,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Neurology
+18192254,A PLACE FOR WOMEN,www.placeforwomen.net,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18192255,FLORIDA CENTER FOR PEDIATRIC ENDOCRINOLOGY DIABETES AND METABOLISM,www.floridapediatricendocrinology.com,Outpatient Center,Medical Group,Endocrinology
+18192658,FLORIDA RADIOLOGY IMAGING,www.frilakemary.com,Outpatient Center,Imaging Center,NULL
+18193570,FLORIDA HOSPITAL MEDICAL GROUP,www.fhmedicalgroup.com,Corporate Parent,Owner Subsidiary,NULL
+18193573,CENTER FOR COLON AND RECTAL SURGERY,www.centerforcolonandrectalsurgery.com,Outpatient Center,Medical Group,General Surgery
+18193580,PEDIATRIC ASSOCIATES OF LAKE COUNTY,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Pediatric Medicine
+18194333,CELEBRATION INTERNAL MEDICINE,www.floridahospital.com,Outpatient Center,Medical Group,Internal Medicine
+18194531,FLORIDA RADIOLOGY IMAGING,www.Floridahospitalradiology.com,Outpatient Center,Imaging Center,NULL
+18194843,"DOBRADIN, ANDREW, OFFICE",www.dobradinsurgery.com,Outpatient Center,Independent Physician Practice,NULL
+18194849,MAITLAND INTERNAL MEDICINE,www.floridahospital.com,Outpatient Center,Medical Group,Internal Medicine
+18194850,INTERNAL MEDICINE PROFESSIONALS,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Internal Medicine
+18194852,WINTER PARK NEUROSURGERY,www.floridahospital.com,Outpatient Center,Medical Group,Neurology
+18199752,PALM SPRINGS FAMILY CARE,www.palmspringsfamilycare.com,Outpatient Center,Medical Group,Family Practice
+18199759,VASCULAR INSTITUTE OF CENTRAL FLORIDA,www.vascularinstituteorlando.com,Outpatient Center,Medical Group,Vascular
+18199762,FLORIDA HOSPITAL PHYSICIANS GROUP PROMPT CARE,www.floridahospitalpromptcare.com,Outpatient Center,Medical Group,Family Practice
+18199765,"ORLANDO NEUROSURGERY, PA",www.orlandoneurosurgery.com,Outpatient Center,Medical Group,General Surgery
+18200121,MOUNT DORA PEDIATRICS,www.mountdorapediatrics.com,Outpatient Center,Medical Group,Pediatric Medicine
+18200230,CENTER FOR CHILD DEVELOPMENT,www.centerforchilddevelopment.com,Outpatient Center,Medical Group,Pediatric Medicine
+18200234,SURGICAL SPECIALISTS OF KISSIMMEE,www.fpmg.com,Outpatient Center,Medical Group,General Surgery
+18200239,HIGHLANDS SURGICAL ASSOCIATES,NULL,Outpatient Center,Medical Group,General Surgery
+18200403,FLORIDA HOSPITAL ZEPHYRHILLS CENTER FOR WOUND HEALING,www.floridahospital.com,Outpatient Center,Medical Group,Wound Care
+18200757,FLORIDA HOSPITAL CENTRA CARE,centracare.org/florida/,Corporate Parent,Owner Subsidiary,NULL
+17837166,AMITA HEALTH MEDICAL GROUP FAMILY MEDICINE RIVERSIDE,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+17841955,ADAIRSVILLE FAMILY MEDICINE,www.gordonhospital.com,Outpatient Center,Medical Group,Family Practice
+17843466,AMITA HEALTH MEDICAL GROUP OBSTETRICS AND GYNECOLOGY DOWNERS GROVE,www.amitahealth.org,Outpatient Center,Medical Group,Obstetrics/Gynecology
+17844129,UROLOGY SPECIALISTS OF LAKE COUNTY,www.lakecountyurology.com,Outpatient Center,Medical Group,Urology
+17844141,THE THERAPY CENTER SEBRING,www.floridahospital.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+17845724,AMITA HEALTH ADVENTIST SAINT THOMAS HOSPICE,www.keepingyouwell.com,Residential,Home Health,Hospice
+17845726,THE THERAPY CENTER WAUCHULA,www.floridahospital.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+17846109,OCCUPATIONAL HEALTH SERVICE,www.floridahospital.com,Outpatient Center,Medical Group,Occupational Health
+17846622,CENTER FOR SPECIALIZED GYNECOLOGY,www.floridahospitalwomen.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+17847831,PINE LOCH FAMILY CARE,www.fpmg.com,Outpatient Center,Medical Group,Family Practice
+17847914,DAYBREAK BEHAVIORAL HEALTH,www.floridahospital.com,Outpatient Center,Medical Group,Behavioral Health
+17848364,FLORIDA NORTH PINELLAS WOUND CENTER,www.floridahospital.com,Outpatient Center,Medical Group,Wound Care
+17849499,CROSS GARDENS CARE CENTER,www.crossseniorcare.net/our-team/cross-gardens-care-center/,Residential,Nursing Homes,NULL
+18160728,SHAWNEE MISSION MEDICAL CENTER SPORTSCARE,www.shawneemission.org,Outpatient Center,Medical Group,Sports Medicine
+18161596,HUGULEY SURGERY CENTER,www.texashealthhuguleysurgerycenter.com,Outpatient Center,Outpatient Surgi Center,NULL
+18161819,MEMORIAL FAMILY CARE PALM COAST,www.floridahospital.com,Outpatient Center,Medical Group,Family Practice
+18162041,"CENTRAL FLORIDA UROLOGY ASSOCIATES, PA",centralfloridaurology.com,Outpatient Center,Medical Group,Urology
+18162247,CHICAGO COLLEGE OF OSTEOPATHIC MEDICINE AT MIDWESTERN UNIVERSITY,www.midwestern.edu/programs_and_admission/il_osteopathic_medicine.html,Academic,Osteopathic Medical School,NULL
+18162704,SHAWNEE MISSION THERAPY SPECIALTY AND SPORTS CARE,www.shawneemission.org,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18163334,SHAWNEE MISSION CARDIOVASCULAR ASSOCIATES CARDIOTHORACIC SURGERY,www.shawneemission.org,Outpatient Center,Medical Group,General Surgery
+18165985,GORDON HOSPITAL INTERNAL AND FAMILY MEDICINE,www.gordonhospital.com,Outpatient Center,Medical Group,Primary Care
+18166376,FLORIDA UROLOGY ASSOCIATES,www.urologyofflorida.com,Outpatient Center,Medical Group,Urology
+18167560,TWIN LAKES FAMILY PRACTICE,www.Hcpphysicians.org,Outpatient Center,Medical Group,Family Practice
+18170887,FLORIDA HOSPITAL HEALTHCARE PARTNERS,www.floridahospital.com,Outpatient Center,Medical Group,Family Practice
+17812965,LAKE PRIMARY CARE ASSOCIATES,www.lakeprimarycareassoc.com,Outpatient Center,Medical Group,Family Practice
+17813699,"CANCER INSTITUTE OF FLORIDA, PA",www.cancerinstituteofflorida.com,Outpatient Center,Medical Group,Oncology
+17814454,MEMORIAL FAMILY CARE ORMOND BEACH,www.floridahospital.com,Outpatient Center,Medical Group,Family Practice
+17815648,FLORIDA HOSPITAL MEDICAL GROUP,www.Fhmedicalgroup.com,Outpatient Center,Medical Group,Podiatry
+17817248,AMITA HEALTH MEDICAL GROUP FAMILY MEDICINE DOWNERS GROVE,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+17817609,WEST FLORIDA HEALTH HOME CARE,www.floridahospital.com,Residential,Home Health,NULL
+17817636,SHAWNEE MISSION PRIMARY CARE LENEXA,www.shawneemission.org,Outpatient Center,Medical Group,Primary Care
+17817637,SUNBELT APOPKA HEALTH AND REHABILITATION CENTER APOPKA,www.sunbeltapopka.com,Residential,Nursing Homes,NULL
+17818224,OVERLAND PARK NURSING AND REHABILITATION CENTER,www.overlandparknursing.com,Residential,Nursing Homes,NULL
+17818226,SHAWNEE MISSION HOME HEALTH CARE,www.shawneemission.org,Residential,Home Health,NULL
+17818228,SHAWNEE MISSION URGENT CARE,www.shawneemission.org,Outpatient Center,Medical Group,Urgent Care
+18230665,CENTER FOR COLON AND RECTAL SURGERY,www.centerforcolonandrectalsurgery.com,Outpatient Center,Medical Group,General Surgery
+18230669,ADVANCED LAPAROSCOPIC SURGEONS,www.celebrationsurgeons.com,Outpatient Center,Medical Group,General Surgery
+18230863,SHAWNEE MISSION PRAIRIE STAR SURGERY CENTER,www.shawneemission.org,Outpatient Center,Outpatient Surgi Center,NULL
+18231395,PARK RIDGE EAR NOSE AND THROAT,www.parkridgehealth.org,Outpatient Center,Medical Group,Otolaryngology
+18233793,DELAND FAMILY MEDICINE,NULL,Outpatient Center,Medical Group,Family Practice
+18235614,FLORIDA HOSPITAL AT CONNERTON,www.floridahospital.com/connerton,Hospital,Acute Care Hospital,Long-term Acute Care
+18236803,LEESBURG FAMILY PRACTICE,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Family Practice
+18236972,VISTA DEL SOL ADULT AND GERIATRIC MEDICAL ASSOCIATES,www.Fhmedicalgroup.com,Outpatient Center,Medical Group,Family Practice
+18239988,FAMILY AND WOMENS HEALTH AT AVALON PARK,www.avalonparkinternalmedicine.com,Outpatient Center,Medical Group,Internal Medicine
+18242883,NORTHWEST GEORGIA ORTHOPEDICS AND SPORTS MEDICINE,www.gordonhospital.com,Outpatient Center,Medical Group,Orthopedics
+18270577,AMITA HEALTH MEDICAL GROUP NAPERVILLE FAMILY AND INTERNAL MEDICINE,www.adventisthealthpartners.com,Outpatient Center,Medical Group,Family Practice
+18272423,"CASIMIRO, JESSY, OFFICE",www.floridahospital.com,Outpatient Center,Independent Physician Practice,NULL
+18273474,FLORIDA HOSPITAL SPORTS MEDICINE AND REHABILTATION,www.floridahospital.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18273476,FLORIDA HOSPITAL SPORTS MEDICINE AND REHABILITATION,www.floridahospital.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18275568,EM CARE EMERGENCY MEDICINE GROUP,www.floridahospital.com,Outpatient Center,Medical Group,Urgent Care
+18278614,ADVENTIST HEALTH FAMILY HEALTH CENTER,www.adventisthealth.org,Outpatient Center,Medical Group,Family Practice
+18279683,PARKRIDGE MEDICAL ASSOCIATES,NULL,Outpatient Center,Medical Group,Family Practice
+18280947,FLORIDA HOSPITAL SPORTS MEDICINE AND REHABILITATION,www.floridahospital.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18173576,ASHEVILLE HEMATOLOGY AND ONCOLOGY ASSOCIATES,www.ashevillehemonc.com,Outpatient Center,Medical Group,Oncology
+18181552,PALMERI FAMILY MEDICINE,www.palmerifma.com/,Outpatient Center,Medical Group,Family Practice
+18182659,COMMUNITY MEDICINE CLINIC,www.floridahospital.com,Outpatient Center,Medical Group,Urgent Care
+18183317,PALM COAST PEDIATRICS,Hcpphysicians.org,Outpatient Center,Medical Group,Pediatric Medicine
+18183472,LAUREL PARK MEDICAL CENTER,NULL,Outpatient Center,Medical Group,Internal Medicine
+18183940,UROLOGY CENTER OF CENTRAL FLORIDA,www.urologycentercentralflorida.com,Outpatient Center,Medical Group,Urology
+18184090,FLORIDA HOSPITAL OUTPATIENT SURGICAL CENTER,www.floridahospital.com,Outpatient Center,Outpatient Surgi Center,NULL
+22223548,NORTH GEORGIA PAIN MEDICINE,www.gordonhospital.com,Outpatient Center,Medical Group,Pain Management
+22236148,FLORIDA HOSPITAL FLAGLER CANCER CENTER RADIATION ONCOLOGY,www.floridahospitalflagler.com,Outpatient Center,Medical Group,Oncology
+22236461,THE BABY PLACE,www.parkridgehealth.org,Outpatient Center,Medical Group,Pediatric Medicine
+22239256,TEMPLE TERRACE CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+22239477,CENTRAL FLORIDA UROLOGY ASSOCIATES,centralfloridaurology.com,Outpatient Center,Medical Group,Urology
+22239946,NORTH GEORGIA EYE CARE,www.gordonhospital.com,Outpatient Center,Medical Group,Ophthalmology
+22522493,SHAWNEE MISSION CANCER CENTER MEDICAL ONCOLOGY AND RADIATION ONCOLOGY,www.shawneemission.org,Outpatient Center,Medical Group,Oncology
+18105204,AMITA HEALTH MEDICAL GROUP OBSTETRICS AND GYNECOLOGY,www.amitahealth.org,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18112858,FLORIDA HOSPITAL BREASTFEEDING SUPPORT LINE,www.floridahospital.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18112917,FLORIDA WOMENS CENTER ALTAMONTE,www.floridawomenscenteraltamonte.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+18115001,DIABETES CARE INSTITUTE,www.floridahospital.com,Outpatient Center,Medical Group,Endocrinology
+18001352,DIGESTIVE HEALTH SPECIALISTS,NULL,Outpatient Center,Medical Group,Gastroenterology
+18002314,FLORIDA HOSPITAL SPORTS MEDICINE AND REHABILITATION,www.floridahospital.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18002443,ADVENTIST HINSDALE FAMILY MEDICINE CENTER,www.keepingyouwell.com,Outpatient Center,Medical Group,Family Practice
+18002946,SHAWNEE MISSION OPEN MRI,www.shawneemission.org,Outpatient Center,Imaging Center,NULL
+18005873,FAMILY MEDICAL CENTER OF CLAY COUNTY,www.manchestermemorial.org,Outpatient Center,Medical Group,Family Practice
+18013891,SHAWNEE MISSION SURGERY CENTER,www.shawneemission.org,Outpatient Center,Outpatient Surgi Center,NULL
+18125773,FLORIDA HOSPITAL SPORTS MEDICINE AND REHABILITATION,www.fhsportsmed.org,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18125824,FLORIDA DIABETES AND ENDOCRINE CENTER,www.fldiabetesandendocrine.com,Outpatient Center,Medical Group,Endocrinology
+18127025,FLORIDA HOSPITAL MEDICAL GROUP RADIATION ONCOLOGY,www.Fhmedicalgroup.com,Outpatient Center,Medical Group,Oncology
+18129116,CENTRAL FLORIDA NEUROLOGIC CONSULTANTS,NULL,Outpatient Center,Medical Group,Neurology
+18131330,COMPREHENSIVE DIAGNOSTICS IMAGING,www.shawneemission.org,Outpatient Center,Imaging Center,NULL
+18131468,"CANCER INSTITUTE OF FLORIDA, PA",www.cancerinstituteofflorida.com,Outpatient Center,Medical Group,Oncology
+18311820,FLORIDA PROMPT CARE,www.floridahospital.com,Outpatient Center,Medical Group,Urgent Care
+18313198,HUGULEY MEDICAL ASSOCIATES,huguleymedicalassociates.com,Outpatient Center,Medical Group,Family Practice
+18315097,WELL CREST MEDICAL CLINIC,NULL,Outpatient Center,Medical Group,Internal Medicine
+18316450,FLORIDA HOSPITAL WESLEY CHAPEL,www.fhwesleychapel.com,Hospital,Acute Care Hospital,General Acute
+18316457,FLORIDA UROLOGY ASSOCIATES,www.urologyofflorida.com,Outpatient Center,Medical Group,Urology
+18319748,FLORIDA UROLOGY ASSOCIATES,www.urologyofflorida.com,Outpatient Center,Medical Group,Urology
+18320600,FLORIDA HOSPITAL ORTHOPEDIC CENTER,www.floridahospital.com,Outpatient Center,Medical Group,Orthopedics
+18320840,FLORIDA HOSPITAL DIABETES INSTITUTE,www.floridahospital.com,Outpatient Center,Clinic,NULL
+18326118,MEDICINE SPECIALISTS AT FLORIDA HOSPITAL,www.medicinespecialistsfh.com,Outpatient Center,Medical Group,Internal Medicine
+18994649,FLORIDA HOSPITAL COMMUNITY PHARMACY,www.floridahospital.com,Pharmacy,Retail Pharmacy,NULL
+18995642,WATERFORD LAKE FAMILY PRACTICE,www.waterfordlakesfamilypractice.com,Outpatient Center,Medical Group,Family Practice
+18995927,FLORIDA HOSPITAL PEDIATRIC CARE,www.floridahospital.com,Outpatient Center,Medical Group,Cardiology
+18997626,RXPLUS PHARMACY,www.myahsrx.com,Pharmacy,Mail Service,NULL
+18997840,WINTER GARDEN CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+18999424,FLORIDA HOSPITAL MEMORIAL MEDICAL COMPREHENSIVE CANCER CENTER,www.floridahospitalsites.com,Outpatient Center,Medical Group,Oncology
+19001598,FLORIDA HOSPITAL HEARTLAND MEDICAL CENTER,www.floridahospital.com,Outpatient Center,Clinic,NULL
+19003233,FLORIDA HOSPITAL CARROLLWOOD EAR NOSE AND THROAT,www.floridahospital.com,Outpatient Center,Medical Group,Otolaryngology
+19140109,FLORIDA HOSPITAL MEDICAL GROUP,www.wintergardendocs.com,Outpatient Center,Medical Group,Multispecialty Group Practice
+18298146,"COHEN, HEZI, OFFICE",www.hcpphysicians.org,Outpatient Center,Independent Physician Practice,NULL
+18298386,CENTER FOR MEDICAL IMAGING,www.floridahospital.com,Outpatient Center,Imaging Center,NULL
+18299106,SHAWNEE MISSION PEDIATRICS,www.shawneemissionpediatrics.com,Outpatient Center,Medical Group,Pediatric Medicine
+18302389,FLORIDA UROLOGY ASSOCIATES,www.urologyofflorida.com,Corporate Parent,Owner Subsidiary,NULL
+18310957,"AZIZ, CHRISTINE A, OFFICE",NULL,Outpatient Center,Independent Physician Practice,NULL
+18311492,"CRAFT, MARK, OFFICE",NULL,Outpatient Center,Independent Physician Practice,NULL
+18075609,AMITA HEALTH MEDICAL GROUP FAMILY MEDICINE WOODRIDGE,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+18075631,LAKESIDE INTERNAL MEDICINE ASSOCIATES,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Internal Medicine
+18076217,FLORIDA HOSPITAL PHYSICIAN GROUP,www.floridahospital.com,Outpatient Center,Medical Group,General Surgery
+18076661,AMITA HEALTH MEDICAL GROUP FAMILY MEDICINE BLOOMINGDALE,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+18076826,AMITA HEALTH MEDICAL GROUP,www.amitahealth.org,Outpatient Center,Medical Group,Internal Medicine
+18077161,FAMILY CARE CENTER OF OVIEDO,www.familycareoviedo.com,Outpatient Center,Medical Group,Family Practice
+18077165,AMITA HEALTH MEDICAL GROUP FAMILY MEDICINE,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+18082563,FHMG CHILDRENS CENTER FOR CANCER AND BLOOD DISEASES,www.childrenscenterforcancer.com,Outpatient Center,Medical Group,Oncology
+18084207,SHAWNEE MISSION ENDOCRINOLOGY AND DIABETES,www.shawneemission.org,Outpatient Center,Medical Group,Endocrinology
+18084420,FLORIDA RADIOLOGY IMAGING,www.floridahospitalradiology.com,Outpatient Center,Imaging Center,NULL
+18085385,GORDON URGENT CARE CALHOUN,www.gordonhospital.com,Outpatient Center,Medical Group,Urgent Care
+18085517,CORPORATECARE LEES SUMMIT,www.shaneemission.org,Outpatient Center,Medical Group,Occupational Health
+17864606,FLORIDA UROLOGY ASSOCIATES,www.urologyofflorida.com,Outpatient Center,Medical Group,Urology
+17868416,WOMENS WELLNESS CENTER,www.fhheartland.org,Outpatient Center,Medical Group,Obstetrics/Gynecology
+17869221,FLORIDA HOSPITAL MEDICAL GROUP,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Family Practice
+17869776,ORLANDO FAMILY MEDICINE,www.orlandofamilymedicine.com,Outpatient Center,Medical Group,Family Practice
+17871258,LOCH HAVEN PEDIATRICS,www.fpmg.com,Outpatient Center,Medical Group,Pediatric Medicine
+17872659,OWASA FAMILY MEDICINE,www.gordonhospital.com/,Outpatient Center,Medical Group,Family Practice
+17873385,"A B ROA MEDICAL CENTER, PA",www.floridahospital.com,Outpatient Center,Medical Group,Family Practice
+17876134,PIONEER MEDICAL CENTER,www.floridahospital.com,Outpatient Center,Medical Group,Family Practice
+2664423,OMNICARE OF HOUSTON SERVICES,www.omnicare.com,Pharmacy,Closed-door,Long-term Care
+2699228,WATERFORD LAKES CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+2832635,WEST VOLUSIA MEDICAL ASSOCIATES,NULL,Outpatient Center,Medical Group,Primary Care
+2856002,AZALEA PARK CENTRA CARE,www.centracare.org,Outpatient Center,Medical Group,Urgent Care
+2885658,KISSIMMEE CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+5170664,FLORIDA HOSPITAL NEW SMYRNA,www.floridahospital.com,Hospital,Acute Care Hospital,General Acute
+5171078,GORDON HOSPITAL,www.gordonhospital.com,Hospital,Acute Care Hospital,General Acute
+5789608,"ADVENTIST HEALTH SYSTEM SUNBELT, INC",www.fhrxpress.com,Pharmacy,Retail Pharmacy,NULL
+6031375,AMITA HEALTH ADVENTIST MEDICAL CENTER BOLINGBROOK,www.keepingyouwell.com,Hospital,Acute Care Hospital,General Acute
+6133701,SHAWNEE MISSION MEDICAL CENTER,www.shawneemission.org,Hospital,Acute Care Hospital,General Acute
+18962239,ZEPHYR HAVEN HEALTH AND REHABILITATION CENTER,www.zephyrhaven.com/,Residential,Nursing Homes,NULL
+18963492,"OMNICARE PHARMACY OF THE MIDWEST, LLC",www.omnicare.com,Pharmacy,Closed-door,Long-term Care
+18965345,FLORIDA HOSPITAL CENTRA CARE EMPLOYER CARE SERVICES,www.centracare.org,Outpatient Center,Clinic,NULL
+18965351,ADVENTIST HEALTH CARE AT HOME,www.keepingyouwell.com,Residential,Home Health,NULL
+18965755,FLORIDA HOSPITAL MEMORIAL MEDICAL CENTER,www.floridahospital.com/memorial-medical-center/rehabilitation,Hospital,Rehabilitation Hospital,NULL
+18966267,AMITA HEALTH MEDICAL GROUP FAMILY MEDICINE PLAINFIELD,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+18966275,FAMILY PRACTICE CENTER,www.Floridahospital.com/heartland,Outpatient Center,Medical Group,Family Practice
+18974865,SHAWNEE MISSION MEDICAL CENTER PHARMACY,www.shawneemission.org,Pharmacy,Retail Pharmacy,NULL
+18062743,FLORIDA UROLOGY ASSOCIATES,www.urologyofflorida.com,Outpatient Center,Medical Group,Urology
+18067556,HINSDALE PRIMARY CARE ASSOCIATES,www.keepingyouwell.com,Outpatient Center,Medical Group,Family Practice
+18068819,"FLORIDA HOSPITAL FLAGLER JOSEPH MCKINLEY, MD MEDICAL GROUP",www.floridahospital.com,Outpatient Center,Medical Group,Gastroenterology
+18069041,CENTER FOR BEHAVIORAL HEALTH,www.fhcenterforbehavioralhealth.com,Outpatient Center,Medical Group,Behavioral Health
+18069135,FLORIDA HEART GROUP,www.fhg.org,Outpatient Center,Medical Group,Cardiology
+18069370,APOPKA FAMILY PRACTICE,www.fpmg.com,Outpatient Center,Medical Group,Family Practice
+18071316,PARK RIDGE HEALTH UROLOGY,NULL,Outpatient Center,Medical Group,Urology
+18071949,CARDIAC SURGERY ASSOCIATES TAMPA,www.Heartsurgery-tampa.com,Outpatient Center,Medical Group,Cardiology
+18072210,MANCHESTER PEDIATRICS,www.manchestermemorial.org,Outpatient Center,Medical Group,Pediatric Medicine
+18072692,FLORIDA HOSPITAL SPORTS MEDICINE AND REHABILITATION,www.floridahospital.com,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18073620,SOUTHWEST VOLUSIA MEDICAL ASSOCIATION,www.swvmedical.org,Outpatient Center,Medical Group,Family Practice
+1881707,OVIEDO CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+1900485,"FAMILY MEDICAL CENTER OF LA GRANGE, LTD",www.fmclg.com,Outpatient Center,Medical Group,Family Practice
+2175945,CONWAY CENTRA CARE,www.centracare.org,Outpatient Center,Medical Group,Urgent Care
+2293895,LEE ROAD CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+2297739,PATIENTS FIRST OF COUNTRYWAY,www.patients-first.com,Outpatient Center,Medical Group,Family Practice
+2323594,DR PHILLIPS CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+2324313,CLERMONT CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+2406421,MEMORIAL HOSPITAL,www.manchestermemorial.org,Hospital,Acute Care Hospital,General Acute
+961001,OMNICARE PHARMACY OF FLORIDA,www.omnicare.com,Pharmacy,Closed-door,Long-term Care
+992200,HUNTERS CREEK CENTRA CARE,www.centracare.org,Outpatient Center,Medical Group,Urgent Care
+995257,ALTAMONTE SPRINGS CENTRA CARE,www.centracare.org,Outpatient Center,Medical Group,Urgent Care
+1291075,SANFORD CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+1437331,LONGWOOD CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+1466750,LAKE BUENA VISTA CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+1477759,SAND LAKE CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+1561540,OMNICARE OF TAMPA,www.omnicare.com,Pharmacy,Closed-door,Long-term Care
+506184,OMNICARE OF SAN ANTONIO,www.omnicare.com,Pharmacy,Closed-door,Long-term Care
+549470,OMNICARE OF BEATTYVILLE,www.omnicare.com,Pharmacy,Closed-door,Long-term Care
+580304,ORANGE LAKE CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+706391,WINTER PARK CENTRA CARE,www.centracare.org,Outpatient Center,Medical Group,Urgent Care
+744592,BADGER ACQUISITION OF KY LLC,www.omnicare.com,Pharmacy,Closed-door,Long-term Care
+18137992,SPORTSCARE AT BLUE VALLEY MEDICAL PLAZA,www.shawneemission.org,Outpatient Center,Physical Medicine and Rehabilitation,NULL
+18140223,THE CENTER FOR WOUND HEALING,www.floridahospital.org,Outpatient Center,Medical Group,General Surgery
+18140472,COMPREHENSIVE DIAGNOSTICS,www.shawneemission.org,Outpatient Center,Imaging Center,NULL
+22218945,MURRAY PRIMARY CARE,www.gordonhospital.com,Outpatient Center,Medical Group,Primary Care
+22218955,SHAWNEE MISSION PSYCHIATRY,www.shawneemission.org,Outpatient Center,Medical Group,Behavioral Health
+22220641,AMITA HEALTH LABORATORY,www.amitahealth.org,Laboratory,Clinical Laboratory,NULL
+22220642,AMITA HEALTH LABORATORY,www.amitahealth.org/locations/laboratories,Laboratory,Clinical Laboratory,NULL
+22220646,AMITA HEALTH SAINT ALEXIUS MEDICAL CENTER LABORATORY,www.amitahealth.org,Laboratory,Clinical Laboratory,NULL
+22221555,BLUE VALLEY DERMATOLOGY,www.bluevalleydermatology.com,Outpatient Center,Medical Group,Dermatology
+22222455,FLORIDA HOSPITAL NORTH PINELLAS WOUND HEALING INSTITUTE OF TRINITY,www.floridahospital.com,Outpatient Center,Medical Group,Wound Care
+18054279,THOMAS PEDIATRICS,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Pediatric Medicine
+18056434,NORTH FLORIDA UROLOGY ASSOCIATES,NULL,Outpatient Center,Medical Group,Urology
+18057300,AMITA HEALTH MEDICAL GROUP INTERNAL MEDICINE DOWNERS GROVE,www.amitahealth.org,Outpatient Center,Medical Group,Internal Medicine
+18057785,AMITA HEALTH MEDICAL GROUP FAMILY MEDICINE BOLINGBROOK,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+17886073,PHARMERICA CORP,www.pharmerica.com,Buying Organization,Pharmacy Provider,NULL
+17891637,BOLINGBROOK FAMILY MEDICINE,www.keepingyouwell.com,Outpatient Center,Medical Group,Family Practice
+18016820,FLORIDA HOSPITAL HOME CARE SERVICES,www.floridahospital.com,Residential,Home Health,NULL
+18017489,HOME CARE OF METROPLEX HOSPITAL,www.mplex.org,Residential,Home Health,NULL
+18018637,FLORIDA HOSPITAL HOME CARE SERVICES,www.floridahospitalhomecare.com,Residential,Home Health,NULL
+18018638,FLORIDA HOSPITAL MEMORIAL HOME HEALTH,www.floridahospital.org,Residential,Home Health,NULL
+18021446,SPRING VIEW HEALTH AND REHABILITATION CENTER,www.springviewhealth.com,Residential,Nursing Homes,NULL
+18023513,GORDON HOME CARE,www.adventisthealthsystem.com,Residential,Home Health,NULL
+18024148,CENTRAL TEXAS MEDICAL CENTER HOME HEALTH,www.adventisthealthsystem.com,Residential,Home Health,NULL
+18024307,MEMORIAL HOME HEALTH,www.manchestermemorial.org,Residential,Home Health,NULL
+18025057,FLORIDA HOSPITAL VOLUSIA HOME CARE SERVICES,www.floridahospital.org,Residential,Home Health,NULL
+18025522,PARK RIDGE HOME HEALTH,www.parkridgehealth.org,Residential,Home Health,NULL
+18025699,SUNBELT HOMECARE,www.adventisthealthsystem.com,Residential,Home Health,NULL
+18100804,FLORIDA HOSPITAL MEDICAL GROUP,www.Fhmedicalgroup.com,Outpatient Center,Medical Group,General Surgery
+18104856,PEDIATRIC CARE OF ALTAMONTE,www.pediatriccareofaltamonte.com,Outpatient Center,Medical Group,Pediatric Medicine
+17995979,TUSCAWILLA FAMILY PRACTICE,www.Fhmedicalgroup.com,Outpatient Center,Medical Group,Family Practice
+17996915,UNIVERSITY HEMATOLOGY AND ONCOLOGY,www.floridahospital.com,Outpatient Center,Medical Group,Oncology
+17996937,LOCH HAVEN OBGYN GROUP,www.lochhavenobgyn.com,Outpatient Center,Medical Group,Obstetrics/Gynecology
+17997752,ADVENTIST CARE CENTERS,www.adventistcare.org,Corporate Parent,Owner Subsidiary,NULL
+18000236,DALE MABRY PRIMARY CARE,www.dalemabryprimarycare.com,Outpatient Center,Medical Group,Family Practice
+17892246,LIVE OAK HEALTH PARTNERS PRIMARY CARE SAN MARCOS,www.liveoakhealthpartners.com,Outpatient Center,Medical Group,Family Practice
+17899587,AMITA HEALTH MEDICAL GROUP,www.amitahealth.org,Outpatient Center,Medical Group,Family Practice
+17900496,LAKE PRIMARY CARE ASSOCIATES,www.fpmg.com,Outpatient Center,Medical Group,Family Practice
+17902724,LIVE OAK HEALTH PARTNERS,NULL,Outpatient Center,Medical Group,Obstetrics/Gynecology
+17905423,ASHEVILLE SLEEP CENTER,www.parkwaymedicalgroup.com,Outpatient Center,Medical Group,Neurology
+17906606,LONGWOOD FAMILY HEALTH,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Family Practice
+17907355,UNIVERSITY CENTRA CARE,centracare.org,Outpatient Center,Medical Group,Urgent Care
+17918373,FLORIDA CHILDRENS MEDICAL GROUP,www.fhmedicalgroup.com,Outpatient Center,Medical Group,Pediatric Medicine
+22543770,CENTRA CARE ORMOND BEACH,centracare.org,Outpatient Center,Medical Group,Urgent Care
+22543771,CENTRA CARE ORANGE CITY,centracare.org,Outpatient Center,Medical Group,Urgent Care
