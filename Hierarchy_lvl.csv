@@ -1,0 +1,26 @@
+cot_clas_desc,cot_fclt_typ_desc,ownership_hier_lvl,contracting_hier_lvl,distribution_lvl
+Outpatient Center,Medical Group,4,5,
+Outpatient Center,Independent Physician Practice,4,5,
+Outpatient Center,Clinic,4,5,
+Outpatient Center,Imaging Center,4,5,
+Corporate Parent,Owner Subsidiary,2,3,
+Miscellaneous,Non-health Delivery,,,
+Supply,Warehouse,4,5,3
+Buying Organization,Group Purchasing Organization (GPO),,1,
+Residential,Nursing Homes,4,5,
+Supply,Distributor - Corporate Headquarters,,,1
+Hospital,Acute Care Hospital,3,4,
+Pharmacy,Compounding,4,5,
+Outpatient Center,Outpatient Surgi Center,4,5,
+Laboratory,Clinical Laboratory,4,5,
+Pharmacy,Retail Pharmacy,4,5,
+Corporate Parent,Integrated Delivery Network (IDN),1,2,
+Outpatient Center,Physical Medicine and Rehabilitation,4,5,
+Pharmacy,Closed-door,4,5,
+Supply,Distributor,,,2
+Academic,Osteopathic Medical School,4,5,
+Residential,Home Health,4,5,
+Academic,Medical School,4,5,
+Pharmacy,Mail Service,4,5,
+Hospital,Rehabilitation Hospital,3,4,
+Buying Organization,Pharmacy Provider,,1,
